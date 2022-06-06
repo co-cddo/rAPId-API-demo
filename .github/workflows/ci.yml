@@ -18,7 +18,7 @@ jobs:
         with:
           bundler-cache: true
 
-      - uses: actions/setup-node@56337c425554a6be30cdef71bf441f15be286854
+      - uses: actions/setup-node@eeb10cff27034e7acf239c5d29f62154018672fd
         with:
           node-version: '16'
 
